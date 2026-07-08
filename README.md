@@ -205,3 +205,13 @@ This repository was developed as part of the QClair Natural Product Database pro
 ## Contact
 
 For questions, suggestions, or collaborations, please open an Issue in this repository.
+
+Qclairvoyance Quantum Labs Private Limited, 
+191, Hi-Tension Road, Sainikpuri, Secunderabad, Hyderabad, Telangana, India - 500094.
+
+Email: info@qclairvoyance.in
+Website: https://www.qclairvoyance.com
+
+---
+
+© 2026 Qclairvoyance Quantum Labs. All rights reserved.
