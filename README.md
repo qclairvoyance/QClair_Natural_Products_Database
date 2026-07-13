@@ -69,37 +69,6 @@ Curated Molecular Database
 
 ---
 
-## Repository Structure
-
-```text
-QClair-Natural-Product-Database/
-│
-├── scripts/
-│   ├── preprocessing/
-│   ├── validation/
-│   ├── descriptor_calculation/
-│   ├── reconstruction/
-│   ├── deduplication/
-│   ├── database/
-│   └── utilities/
-│
-├── data/
-│   ├── sample_data/
-│   └── processed/
-│
-├── outputs/
-│
-├── figures/
-│
-├── notebooks/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 ## Molecular Features Generated
 
 The pipeline supports the generation and validation of a comprehensive set of molecular representations, descriptors, and annotations, including:
