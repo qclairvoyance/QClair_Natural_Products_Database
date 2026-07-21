@@ -2,6 +2,8 @@
 
 A Python-based cheminformatics pipeline for constructing a curated natural product database through automated molecular preprocessing, structural validation, descriptor computation, and database generation.
 
+Database URL: https://npdb.qclairvoyance.com/
+
 ---
 
 ## Overview
